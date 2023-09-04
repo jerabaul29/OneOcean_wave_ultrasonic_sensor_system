@@ -1,0 +1,17 @@
+# Preparation
+
+Make sure that all software is installed and everything is ready.
+
+# Checking that all works well
+
+Check that all the scripts in this folder work, by launching them by hand as a user:
+
+https://github.com/jerabaul29/ultrasound_radar_bow_wave_sensor_Statsraad_Lehmkuhl_2021_2022/tree/main/code/launch_scripts
+
+# Automatic startup
+
+To set up the crontab, need to write the command:
+
+https://github.com/jerabaul29/ultrasound_radar_bow_wave_sensor_Statsraad_Lehmkuhl_2021_2022/blob/main/code/rpi_cron_content 
+
+to the NON sudo cron, i.e ```crontab -e```

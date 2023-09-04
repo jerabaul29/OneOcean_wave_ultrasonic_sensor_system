@@ -1,0 +1,1 @@
+- old\_deprecated contains information about the shield v1; keeping stuff around as some (or all) data may come from the shield v1, but this is a bad design, see rather the new and better design at the root of this folder.

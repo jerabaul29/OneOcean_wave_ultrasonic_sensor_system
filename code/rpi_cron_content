@@ -1,0 +1,1 @@
+@reboot bash /home/pi/Git/ultrasound_radar_bow_wave_sensor_Statsraad_Lehmkuhl_2021_2022/code/launch_scripts/script_launch_all.sh >> /home/pi/Git/ultrasound_radar_bow_wave_sensor_Statsraad_Lehmkuhl_2021_2022/data/script_logs/log_script_launch_all.txt
